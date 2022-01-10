@@ -1,0 +1,20 @@
+:root {
+    --background-color-main: #202124;
+    --background-color-block: #292A2D;
+}
+
+body {
+    background-color: var(--background-color-main);
+    color: white;
+}
+
+#root {
+    
+}
+
+.fullBlock {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
